@@ -1,4 +1,7 @@
 # bayeshack2016-prep-HHS
+
+steeve@stanford.edu, alykane@stanford.edu
+
 Prepare datasets from US Department of Human and Health Services for Bayes Hackathon 2016 
 
 Datasets 
