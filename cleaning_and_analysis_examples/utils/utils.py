@@ -81,7 +81,7 @@ def checkObsValsMatchExpectedVals(df,myvars,expectedVals):
              #df: pandas dataframe
              #myvars: variable names = ['BusinessYear','StateCode',....'Age']
              #expectedVals: expected values for each variable: 
-             #     e.g., expectedVals["StateCode"] = ['AK','AL','AZ,......,'WA','WV','WI','WY']
+             #     e.g., expectedVals["StateCode"] =['AK','AL','AZ,......,'WA','WV','WI','WY']
     
     print '*** Are there any values outside their expected range ? ***'
     rows = []
