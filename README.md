@@ -2,7 +2,8 @@
 
 steeve@stanford.edu, alykane@stanford.edu
 
-Prepare datasets from US Department of Human and Health Services for Bayes Hackathon 2016 
+Curate and Prepare datasets from US Department of Human and Health Services for [Bayes Hackathon 2016](http://bayeshack.org/health-and-human-services.html) to help better understand the Health insurance market place. 
+
 
 ### Important links
 
